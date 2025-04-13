@@ -1,32 +1,48 @@
+# Portfólio de Projetos – Gustavo Viana 📊
+
+Bem-vindo ao meu portfólio de projetos! Aqui você encontrará trabalhos que desenvolvi para aplicar e demonstrar minhas habilidades em análise de dados, visualização e construção de dashboards interativos.
+
+---
+
+## 🎯 Objetivo
+
+Este repositório tem como objetivo centralizar e apresentar de forma clara e organizada os projetos que desenvolvi ao longo da minha transição de carreira para a área de dados. Cada projeto aqui representa uma etapa do meu aprendizado e crescimento profissional.
+
+---
+
+## 👀 Como visualizar os projetos
+
+Você pode navegar pelas pastas do repositório para acessar os arquivos de cada projeto. Alguns projetos contam com dashboards em Excel ou Power BI. No futuro, também estarei hospedando uma versão online do portfólio via GitHub Pages.
+
+### Exemplos:
+- [`dashboard_excel_controle_de_Investimentos_ficticios`](./dashboard_excel_controle_de_Investimentos_ficticios): Planilha de controle de investimentos fictícios com análise gráfica e segmentações dinâmicas.
 
 
-Editorial by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+---
 
-<!---
-Say hello to Editorial, a blog/magazine-ish template built around a toggleable "locking"
-sidebar (scroll down to see what I mean) and an accordion-style menu. Not the usual landing
-page/portfolio affair you'd expect to see at HTML5 UP, but I figured for my 41st (!!!)
-template I'd change it up a little. Enjoy :)
+## 🛠️ Tecnologias e Ferramentas
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+- Excel Avançado (Tabelas Dinâmicas, Fórmulas, Gráficos)
+- Power BI (Power Query, DAX, Relatórios Interativos)
+- HTML/CSS (para visualização dos projetos online)
+- Git e GitHub (controle de versão e portfólio)
+- PowerPoint (para apresentação de relatórios)
 
-(* = not included)
+---
 
-AJ
-aj@lkn.io | @ajlkn
+## 🔗 Links úteis
 
+- 🌐 [Meu LinkedIn](www.linkedin.com/in/enggustavoviana)
+- 📬 [Contato por E-mail](eng.gustavoviana@yahoo.com)
 
-Credits:
+---
 
-	Demo Images:
-		Unsplash (unsplash.com)
+## 📌 Em breve
 
-	Icons:
-		Font Awesome (fontawesome.io)
+- Upload de novos projetos em Power BI conectando bancos de dados locais.
+- Página do portfólio hospedada no GitHub Pages.
 
-	Other:
-		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools) --->
+---
+
+Obrigado pela visita! Se tiver qualquer dúvida ou quiser trocar uma ideia, sinta-se à vontade para entrar em contato. 😊
+	
