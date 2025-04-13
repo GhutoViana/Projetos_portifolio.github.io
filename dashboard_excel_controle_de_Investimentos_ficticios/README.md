@@ -2,7 +2,7 @@
 
 Este projeto apresenta um dashboard interativo desenvolvido em **Excel** para o controle de investimentos de capital em diferentes áreas de uma organização. O objetivo principal é **monitorar a alocação de recursos**, identificar o percentual aplicado por projeto e comparar a evolução dos investimentos ao longo do tempo.
 
-![Texto alternativo](./imagem/Dashboard-Excel.png)
+![Texto alternativo](./Dashboard-Excel.png)
 
 ## 🧩 Funcionalidades
 
