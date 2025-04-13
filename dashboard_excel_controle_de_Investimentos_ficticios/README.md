@@ -23,7 +23,7 @@ Este projeto apresenta um dashboard interativo desenvolvido em **Excel** para o 
 ## 🛠️ Tecnologias Utilizadas
 
 - Microsoft Excel
-- Tabelas e gráficos 
+- Tabelas dinâmicas 
 - Formatação condicional
 - Controles visuais (barras, cartões e indicadores circulares)
 - Layout corporativo
