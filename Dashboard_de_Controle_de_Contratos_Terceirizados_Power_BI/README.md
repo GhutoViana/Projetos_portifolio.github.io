@@ -1,5 +1,9 @@
 # 📊 Dashboard de Controle de Contratos Terceirizados – Power BI
 
+
+![Texto alternativo](./Dashboard-contratos.PNG)
+
+
 ## 🧾 Descrição do Projeto
 
 Este projeto foi desenvolvido com o objetivo de fornecer um painel de controle interativo e visual para o acompanhamento de contratos terceirizados de uma empresa do setor industrial.  
