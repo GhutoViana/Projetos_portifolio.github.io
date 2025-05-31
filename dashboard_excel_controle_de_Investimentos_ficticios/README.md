@@ -30,6 +30,22 @@ Este projeto apresenta um dashboard interativo desenvolvido em **Excel** para o 
 - Controles visuais (barras, cartões e indicadores circulares)
 - Layout corporativo
 
-## 🧪 Nível de Interatividade
+## ✅ Resultados Esperados
 
-Este dashboard pode ser navegado e atualizado manualmente via Excel, permitindo a **customização dos dados por mês e por centro de custo**.
+- Com o painel de controle de investimentos, é possível:
+
+- Visualizar com clareza o percentual de aplicação de cada centro de custo (por código), facilitando a gestão do CAPEX;
+
+- Acompanhar a evolução mensal das aplicações, comparando valores aplicados e saldos disponíveis;
+
+- Identificar áreas com baixa execução orçamentária e atuar preventivamente para garantir o cumprimento do plano de investimentos;
+
+- Analisar por filial e por categoria os investimentos realizados, promovendo uma alocação mais eficiente dos recursos;
+
+- Fornecer à liderança uma visão consolidada e visualmente clara do status dos investimentos por projeto, centro de custo e unidade;
+
+- Otimizar o processo de tomada de decisão com base em dados atualizados e visuais intuitivos;
+
+- Aumentar a transparência e o controle financeiro em projetos de infraestrutura e melhorias operacionais.
+
+
