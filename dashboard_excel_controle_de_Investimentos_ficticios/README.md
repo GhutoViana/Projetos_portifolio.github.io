@@ -32,7 +32,7 @@ Este projeto apresenta um dashboard interativo desenvolvido em **Excel** para o 
 
 ## ✅ Resultados Esperados
 
-- Com o painel de controle de investimentos, é possível:
+Com o painel de controle de investimentos, é possível:
 
 - Visualizar com clareza o percentual de aplicação de cada centro de custo (por código), facilitando a gestão do CAPEX;
 
