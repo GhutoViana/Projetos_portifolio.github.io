@@ -58,4 +58,4 @@ Com esse painel, é possível:
 - Acompanhar contratos que estão próximos do vencimento e se antecipar a renovações ou negociações;
 - Identificar fornecedores estratégicos com base na participação financeira;
 - Avaliar a distribuição dos contratos entre as unidades da empresa (plantas);
-- Apoiar o s
+- Apoiar o setor administrativo com uma ferramenta clara e objetiva para reportar informações à liderança.
