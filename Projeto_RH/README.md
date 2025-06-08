@@ -2,6 +2,9 @@
 
 Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019. A proposta faz parte do meu portfólio como Analista de Dados Jr., demonstrando minhas habilidades com visualização de dados e tomada de decisão baseada em dados.
 
+![Texto alternativo](./Dashboard-RH.PNG)
+
+
 ---
 
 ## 📌 Objetivo
