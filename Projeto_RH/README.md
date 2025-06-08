@@ -1,3 +1,60 @@
+# 📊 Dashboard RH – Análise de Contratações e Indicadores (2009–2019)
+
+Este projeto apresenta um **dashboard interativo de Recursos Humanos**, desenvolvido no **Power BI**, com o objetivo de analisar dados históricos de contratações de uma empresa fictícia entre os anos de 2009 e 2019. A solução foi criada para demonstrar minha capacidade em trabalhar com dados corporativos, desde a modelagem até a entrega de insights visuais de valor para a tomada de decisão.
+
+---
+
+## ✅ Objetivos do Projeto
+
+- Consolidar e transformar dados brutos de RH em visualizações compreensíveis.
+- Identificar padrões de contratações ao longo do tempo.
+- Analisar distribuição de colaboradores por setor, cargo, idade e sexo.
+- Avaliar a evolução da folha de pagamento e a média salarial por cargo.
+- Oferecer interatividade com filtros por cargo, setor, data e outros campos-chave.
+
+---
+
+## 🧠 Principais Insights Gerados
+
+- O setor de **produção** concentra 46% dos colaboradores da empresa.
+- Faixa etária predominante está entre **26 e 35 anos**.
+- A **folha de pagamento totaliza aproximadamente R$ 1,39 milhões**.
+- A maior média salarial está nos cargos de **Diretoria**.
+- Existe um equilíbrio razoável entre **colaboradores homens e mulheres**.
+- Picos de contratação ocorrem no início de determinados anos, revelando tendências sazonais.
+
+---
+
+## 🧰 Tecnologias e Ferramentas Utilizadas
+
+| Etapa                         | Ferramenta / Recurso                        |
+|------------------------------|---------------------------------------------|
+| Fonte de dados               | Excel (.xlsx)                               |
+| ETL e limpeza
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+__________________________________________________________________________________________________________
+
+
+
+
 # 📊 Dashboard RH – Análise de Contratações (2009–2019)
 
 Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019 de uma empresa ficticia. A proposta faz parte do meu portfólio como Analista de Dados, demonstrando minhas habilidades com visualização de dados e tomada de decisão baseada em dados.
@@ -67,4 +124,5 @@ Sou Gustavo Viana, Analista de Dados com formação técnica em Informática pel
 - 📧 Email: eng.gustavoviana@yahoo.com
 - 💼 LinkedIn: [linkedin.com/in/enggustavoviana](https://www.linkedin.com/in/enggustavoviana)
 
+*/
 
