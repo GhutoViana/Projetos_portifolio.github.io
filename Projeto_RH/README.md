@@ -65,6 +65,6 @@ Sou Gustavo Viana, Analista de Dados com formação técnica em Informática pel
 ## 📬 Contato
 
 - 📧 Email: eng.gustavoviana@yahoo.com
-- 💼 LinkedIn: [linkedin.com/in/gustavovianads](https://www.linkedin.com/in/enggustavoviana)
+- 💼 LinkedIn: [linkedin.com/in/enggustavoviana](https://www.linkedin.com/in/enggustavoviana)
 
 
