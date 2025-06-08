@@ -1,6 +1,6 @@
 # 📊 Dashboard RH – Análise de Contratações (2009–2019)
 
-Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019 de uma empresa ficticia. A proposta faz parte do meu portfólio como Analista de Dados, demonstrando minhas habilidades com visualização de dados e tomada de decisão baseada em dados.
+Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019 de uma empresa ficticia. A proposta faz parte do meu portfólio como Analista de Dados, demonstrando minhas habilidades com visualização e tomada de decisão baseada em dados.
 
 ![Texto alternativo](./Dashboard-RH.png)
 
@@ -38,23 +38,23 @@ Desenvolver um dashboard interativo e intuitivo que forneça uma visão abrangen
 
 ## 🧠 Insights Possíveis
 
-** Total de funcionários contratados no período, com possibilidade de comparação entre intervalos temporais
+- Total de funcionários contratados no período, com possibilidade de comparação entre intervalos temporais
 
-** Número de departamentos ativos com colaboradores no período analisado
+- Número de departamentos ativos com colaboradores no período analisado
 
-** Folha de pagamento total, com análise de variação mensal e por departamento
+- Folha de pagamento total, com análise de variação mensal e por departamento
 
-** Contratações por mês, mostrando tendências e sazonalidades
+- Contratações por mês, mostrando tendências e sazonalidades
 
-** Distribuição por faixa etária dos colaboradores para análise demográfica
+- Distribuição por faixa etária dos colaboradores para análise demográfica
 
-** Distribuição por setor, evidenciando a estrutura organizacional
+- Distribuição por setor, evidenciando a estrutura organizacional
 
-** Percentual de colaboradores por sexo e setor, para avaliação de diversidade
+- Percentual de colaboradores por sexo e setor, para avaliação de diversidade
 
-** Média salarial por cargo, facilitando comparações internas
+- Média salarial por cargo, facilitando comparações internas
 
-** Filtros dinâmicos por data, cargo e departamento para análise personalizada
+- Filtros dinâmicos por data, cargo e departamento para análise personalizada
 
 ---
 
