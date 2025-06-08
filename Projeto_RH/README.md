@@ -1,9 +1,11 @@
 # 📊 Dashboard RH – Análise de Contratações (2009–2019)
 
-Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019. A proposta faz parte do meu portfólio como Analista de Dados Jr., demonstrando minhas habilidades com visualização de dados e tomada de decisão baseada em dados.
+Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019 de uma empresa ficticia. A proposta faz parte do meu portfólio como Analista de Dados, demonstrando minhas habilidades com visualização de dados e tomada de decisão baseada em dados.
 
-![Texto alternativo](./Dashboard-RH.PNG)
 
+## 📷 Captura de Tela
+
+![Texto alternativo](./Dashboard-RH.png)
 
 ---
 
@@ -36,12 +38,6 @@ Fornecer uma visão clara e interativa sobre o histórico de contratações da e
 
 ---
 
-## 📷 Captura de Tela
-
-![Dashboard RH](./Captura%20de%20tela%202025-06-08%20172349.png)
-
----
-
 ## 🧠 Insights Possíveis
 
 - Setor de **produção** lidera em número de colaboradores (46%)
@@ -62,15 +58,13 @@ Fornecer uma visão clara e interativa sobre o histórico de contratações da e
 
 ## 👨‍💻 Sobre Mim
 
-Sou **Gustavo Viana**, profissional em transição de carreira para a área de dados. Tenho formação técnica em informática pelo Instituto Federal do Pará, estudo Engenharia de Computação na UFPA e atuo no setor administrativo com foco em dados, relatórios e visualizações. 
-
-🔗 [Meu portfólio completo](https://github.com/GhutoViana/portifolio-projetos)
+Sou Gustavo Viana, Analista de Dados com formação técnica em Informática pelo Instituto Federal do Pará e estudante de Engenharia de Computação na UFPA. Tenho experiência na construção de relatórios gerenciais, dashboards interativos e análise de dados para suporte à tomada de decisão. Atuo com ferramentas como Power BI, Excel, SQL e Python, aplicando boas práticas de visualização e modelagem de dados para gerar insights relevantes ao negócio.
 
 ---
 
 ## 📬 Contato
 
-- 📧 Email: gustavovianads@gmail.com
-- 💼 LinkedIn: [linkedin.com/in/gustavovianads](https://www.linkedin.com/in/gustavovianads)
+- 📧 Email: eng.gustavoviana@yahoo.com
+- 💼 LinkedIn: [linkedin.com/in/gustavovianads](https://www.linkedin.com/in/enggustavoviana)
 
 
