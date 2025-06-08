@@ -1,6 +1,9 @@
 # 📊 Dashboard RH – Análise de Contratações (2009–2019)
 
+<div style="text-align: justify;">
+
 Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Power BI, com o objetivo de visualizar e analisar dados de contratações no período de 2009 a 2019 de uma empresa ficticia. A proposta faz parte do meu portfólio como Analista de Dados, demonstrando minhas habilidades com visualização de dados e tomada de decisão baseada em dados.
+</div>
 
 ![Texto alternativo](./Dashboard-RH.png)
 
@@ -8,7 +11,9 @@ Este projeto apresenta um **Dashboard de Recursos Humanos** desenvolvido no Powe
 
 ## 📌 Objetivo
 
+<div style="text-align: justify;">
 Desenvolver um dashboard interativo e intuitivo que forneça uma visão abrangente e detalhada sobre o histórico de contratações da empresa. O sistema permitirá a segmentação e análise dinâmica dos dados por diferentes dimensões, incluindo período, faixa etária, setor, cargo, sexo e faixa salarial da folha de pagamento. O intuito é facilitar a identificação de tendências, padrões e oportunidades de melhoria no processo de recrutamento, além de apoiar a tomada de decisões estratégicas para a gestão de recursos humanos e o planejamento organizacional.
+</div>
 
 ---
 
@@ -77,5 +82,5 @@ Sou Gustavo Viana, Analista de Dados com formação técnica em Informática pel
 - 📧 Email: eng.gustavoviana@yahoo.com
 - 💼 LinkedIn: [linkedin.com/in/enggustavoviana](https://www.linkedin.com/in/enggustavoviana)
 
-*/
+
 
