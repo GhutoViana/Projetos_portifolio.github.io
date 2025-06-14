@@ -1,1 +1,61 @@
+# 📊 Churn Prediction - Análise de Cancelamento de Clientes
+
+![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![License](https://img.shields.io/badge/license-MIT-green)
+
+## 🧠 Sobre o Projeto
+
+Este projeto tem como objetivo aplicar técnicas de **Análise Exploratória de Dados (EDA)** com Python para compreender os motivos de **cancelamento de clientes (churn)** em uma base de dados simulada.
+
+Através da análise de variáveis relevantes, conseguimos identificar padrões de comportamento e propor ações que impactam diretamente na **retenção de clientes**.
+
+---
+
+## 🎯 Objetivos
+
+- 📌 Entender o perfil dos clientes que cancelam.
+- 📌 Identificar variáveis mais correlacionadas com o churn.
+- 📌 Simular estratégias de retenção e avaliar o impacto.
+- 📌 Visualizar resultados de forma clara e objetiva.
+
+---
+
+## 📈 Resultados da Análise
+
+| Cenário        | % Cancelou | % Retido |
+|----------------|------------|----------|
+| **Antes**      | 56,7%      | 43,3%    |
+| **Depois**     | 18,4%      | 81,6%    |
+
+> 🔍 Houve um aumento relativo de **quase 89%** na taxa de retenção de clientes após ações simuladas com base nos insights da análise.
+
+---
+
+## 📁 Acesse o Notebook
+
+📓 [Clique aqui para visualizar o notebook do projeto](./inicial.ipynb)
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- Python
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- Seaborn
+
+---
+
+## 📌 Como Executar
+
+```bash
+# Clone o repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+
+# Acesse a pasta
+cd seu-repositorio
+
+# Execute o notebook em um ambiente Jupyter
 
