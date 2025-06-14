@@ -1,61 +1,24 @@
-# 📊 Churn Prediction - Análise de Cancelamento de Clientes
+# 📊 Python Insights - Analisando Dados com Python
 
-![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
-![License](https://img.shields.io/badge/license-MIT-green)
+## 🧠 Case: Churn Prediction (Previsão de Cancelamento de Clientes)
 
-## 🧠 Sobre o Projeto
+Neste projeto, realizamos uma análise exploratória e diagnóstica utilizando Python, com foco em **Churn Prediction** — ou seja, entender e prever o cancelamento de clientes.
 
-Este projeto tem como objetivo aplicar técnicas de **Análise Exploratória de Dados (EDA)** com Python para compreender os motivos de **cancelamento de clientes (churn)** em uma base de dados simulada.
-
-Através da análise de variáveis relevantes, conseguimos identificar padrões de comportamento e propor ações que impactam diretamente na **retenção de clientes**.
+O objetivo foi identificar os principais fatores que levam os clientes a cancelarem o serviço, compreender padrões de comportamento e gerar insights que ajudem na criação de ações estratégicas para reduzir a taxa de churn e aumentar a fidelização.
 
 ---
 
-## 🎯 Objetivos
+## 📁 Base de Dados e Arquivos
 
-- 📌 Entender o perfil dos clientes que cancelam.
-- 📌 Identificar variáveis mais correlacionadas com o churn.
-- 📌 Simular estratégias de retenção e avaliar o impacto.
-- 📌 Visualizar resultados de forma clara e objetiva.
+A base de dados está disponível no notebook principal do projeto, contendo todas as etapas da análise.
 
 ---
 
-## 📈 Resultados da Análise
+## 🔎 Etapas da Análise
 
-| Cenário        | % Cancelou | % Retido |
-|----------------|------------|----------|
-| **Antes**      | 56,7%      | 43,3%    |
-| **Depois**     | 18,4%      | 81,6%    |
+### ✅ Passo 1: Importação da Base de Dados
 
-> 🔍 Houve um aumento relativo de **quase 89%** na taxa de retenção de clientes após ações simuladas com base nos insights da análise.
+A análise foi feita com a biblioteca `pandas`:
 
----
-
-## 📁 Acesse o Notebook
-
-📓 [Clique aqui para visualizar o notebook do projeto](./inicial.ipynb)
-
----
-
-## 🛠️ Tecnologias Utilizadas
-
-- Python
-- Jupyter Notebook
-- Pandas
-- Matplotlib
-- Seaborn
-
----
-
-## 📌 Como Executar
-
-```bash
-# Clone o repositório
-git clone https://github.com/seu-usuario/seu-repositorio.git
-
-# Acesse a pasta
-cd seu-repositorio
-
-# Execute o notebook em um ambiente Jupyter
-
+```python
+import pandas as pd
