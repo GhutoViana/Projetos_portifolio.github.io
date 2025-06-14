@@ -8,17 +8,60 @@ O objetivo foi identificar os principais fatores que levam os clientes a cancela
 
 ---
 
-## 📁 Base de Dados e Arquivos
+🔍 Objetivo:
 
-A base de dados está disponível no notebook principal do projeto, contendo todas as etapas da análise.
+Entender os principais motivos de churn
 
----
+Propor ações estratégicas para retenção
 
-## 🔎 Etapas da Análise
+Reduzir a taxa de cancelamento
 
-### ✅ Passo 1: Importação da Base de Dados
 
-A análise foi feita com a biblioteca `pandas`:
+🎯 Resultados:
+✅ Redução de 56.7% para 18.4% na taxa de churn
+✅ Aumento de 89% na retenção de clientes
 
-```python
-import pandas as pd
+
+🔧 Tecnologias Utilizadas
+Python (Pandas, Plotly)
+
+Jupyter Notebook
+
+Análise Exploratória de Dados (EDA)
+
+Visualização de Dados
+
+
+📊 Principais Insights
+🔎 Fatores que Influenciam o Churn
+Clientes com mais de 50 anos
+
+100% cancelaram
+
+Ação: Campanhas de marketing direcionadas
+
+Contrato mensal
+
+Taxa de churn de 100%
+
+Ação: Incentivar planos anuais
+
+Mais de 4 ligações para o call center
+
+Alto índice de cancelamento
+
+Ação: Melhorar atendimento e criar alertas
+
+Atrasos acima de 20 dias
+
+Todos os clientes cancelaram
+
+Ação: Alertar cobrança com 10 dias de atraso
+
+
+📈 Impacto das Ações
+Ação Implementada	Taxa de Churn
+Sem ações	56.7%
+Reduzir ligações (>4)	36.3%
+Limitar atrasos (≤20 dias)	26.9%
+Migrar para contratos anuais	18.4%
