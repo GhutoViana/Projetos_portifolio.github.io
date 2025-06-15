@@ -64,7 +64,7 @@ tabela = tabela.dropna()
 
 ### ✅ 3. Análise Exploratória (EDA)
 
-Avaliação da taxa de cancelamento:
+- Avaliação da taxa de cancelamento:
 
 ```python
 
@@ -89,16 +89,16 @@ tabela["cancelou"].value_counts(normalize=True)
 ### Insights obtidos:
 
   - Clientes com idade acima de 50 anos: todos cancelaram.
-  💡 Recomenda-se campanhas focadas nesse público.
+      💡 Recomenda-se campanhas focadas nesse público.
 
   - Mais de 4 ligações ao call center: cancelamento quase certo.
-  💡 Melhorar atendimento e criar alertas para alta frequência de chamadas.
+      💡 Melhorar atendimento e criar alertas para alta frequência de chamadas.
 
   - Contrato mensal: taxa de cancelamento elevada.
-  💡 Promover planos anuais com vantagens.
+      💡 Promover planos anuais com vantagens.
 
   - Mais de 20 dias de atraso: todos cancelaram.
-  💡 Disparar alertas de cobrança a partir de 10 dias de atraso.
+      💡 Disparar alertas de cobrança a partir de 10 dias de atraso.
 
 
 ## Simulação de Impacto (Pós-Ação)
