@@ -54,7 +54,7 @@ display(tabela)
 
 ```
 
-## ✅ 2. Limpeza dos Dados
+### ✅ 2. Limpeza dos Dados
 
 - Remoção de colunas irrelevantes (CustomerID);
 - Exclusão de dados faltantes;
