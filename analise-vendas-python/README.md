@@ -4,7 +4,7 @@ Este projeto tem como objetivo realizar uma **análise exploratória e diagnóst
 
 
 
-![Texto alternativo](./01.png)
+![Texto alternativo](./images/01.png)
 
 
 ---
