@@ -74,14 +74,14 @@ tabela["cancelou"].value_counts(normalize=True)
 
 - Geração de gráficos por variável:
 
-  ```python
+```python
 
-import plotly.express as px
-for coluna in tabela.columns:
+  import plotly.express as px
+  for coluna in tabela.columns:
     grafico = px.histogram(tabela, x=coluna, color="cancelou", text_auto=True)
     grafico.show()
 
-  ```
+```
 
 
 ### 🧪 4. Análise Diagnóstica
