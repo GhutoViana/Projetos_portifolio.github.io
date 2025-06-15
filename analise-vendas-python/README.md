@@ -113,7 +113,7 @@ tabela = tabela[condicao]
 display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
-### Churn caiu de 56,7% → 36,3%
+#### Churn caiu de 56,7% → 36,3%
 
 ### 2. Limitação dos dias de atraso:
 
@@ -124,7 +124,7 @@ display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
 
-### Churn caiu de 36,3% → 26,9%
+#### Churn caiu de 36,3% → 26,9%
 
 
 ### 3. Substituição de contratos mensais por anuais:
@@ -137,7 +137,7 @@ display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
 
-### Churn caiu de 26,9% → 18,4%
+#### Churn caiu de 26,9% → 18,4%
 
 ### 📊 Resultado Final
 
