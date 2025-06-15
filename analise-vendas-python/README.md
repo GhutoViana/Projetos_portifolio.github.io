@@ -86,7 +86,7 @@ tabela["cancelou"].value_counts(normalize=True)
 
 ### ✅ 4. Análise Diagnóstica
 
-# Insights obtidos:
+### Insights obtidos:
 
   - Clientes com idade acima de 50 anos: todos cancelaram.
   💡 Recomenda-se campanhas focadas nesse público.
@@ -102,9 +102,10 @@ tabela["cancelou"].value_counts(normalize=True)
 
 
 ## Simulação de Impacto (Pós-Ação)
+
 ### 🔧 Aplicação de Filtros:
 
-# 1. Redução no número de ligações ao call center:
+### 1. Redução no número de ligações ao call center:
 
 ```python
 condicao = tabela["ligacoes_callcenter"] <= 4
@@ -112,9 +113,9 @@ tabela = tabela[condicao]
 display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
-# Churn caiu de 56,7% → 36,3%
+### Churn caiu de 56,7% → 36,3%
 
-# 2. Limitação dos dias de atraso:
+### 2. Limitação dos dias de atraso:
 
 ```python
 condicao = tabela["dias_atraso"] <= 20
@@ -123,10 +124,10 @@ display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
 
-# Churn caiu de 36,3% → 26,9%
+### Churn caiu de 36,3% → 26,9%
 
 
-# 3. Substituição de contratos mensais por anuais:
+### 3. Substituição de contratos mensais por anuais:
 
 ```python
 
@@ -136,7 +137,7 @@ display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
 
-# Churn caiu de 26,9% → 18,4%
+### Churn caiu de 26,9% → 18,4%
 
 ### 📊 Resultado Final
 
@@ -149,16 +150,16 @@ display(tabela["cancelou"].value_counts(normalize=True))
 - Com ações estratégicas baseadas nos dados, conseguimos reduzir o cancelamento em mais de 67% e aumentar a fidelização em quase 89%.
 
 
-## 💡 Conclusão
+### 💡 Conclusão
 
-Este projeto demonstra como uma análise de churn bem estruturada pode transformar dados em ações concretas. Além de melhorar os resultados do negócio, ele mostra ao recrutador a sua capacidade de:
+#### Este projeto demonstra como uma análise de churn bem estruturada pode transformar dados em ações concretas. Além de melhorar os resultados do negócio, ele mostra ao recrutador a sua capacidade de:
 
-- Realizar análises profundas com Python;
+ ✅ Realizar análises profundas com Python;
 
-- Traduzir dados em insights estratégicos;
+ ✅ Traduzir dados em insights estratégicos;
 
-- Trabalhar com limpeza e visualização de dados;
+ ✅ Trabalhar com limpeza e visualização de dados;
 
-- Compreender problemas de negócio e propor soluções eficazes.
+ ✅ Compreender problemas de negócio e propor soluções eficazes.
 
   
