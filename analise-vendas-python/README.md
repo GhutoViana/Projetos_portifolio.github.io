@@ -2,6 +2,11 @@
 
 Este projeto tem como objetivo realizar uma **análise exploratória e diagnóstica** em Python, focada na **previsão de cancelamento de clientes** (*Churn Prediction*). Através de uma abordagem baseada em dados, buscamos compreender os principais fatores que levam clientes a encerrar seu vínculo com um serviço e propor **ações estratégicas para aumentar a retenção**.
 
+
+
+![Texto alternativo](./01.png)
+
+
 ---
 
 ## 🧠 Objetivo do Projeto
