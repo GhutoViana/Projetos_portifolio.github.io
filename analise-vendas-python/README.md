@@ -53,6 +53,10 @@ display(tabela)
 ```
 
 
+![Texto alternativo](./images/00.png)
+
+
+
 ### ✅ 2. Limpeza dos Dados
 
 - Remoção de colunas irrelevantes (CustomerID);
