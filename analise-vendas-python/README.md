@@ -52,7 +52,8 @@ A base contém informações relevantes sobre o comportamento e perfil dos clien
 import pandas as pd
 display(tabela)
 
-python´´´
+```
+´´´
 
 ###🧹 2. Limpeza dos Dados
 
