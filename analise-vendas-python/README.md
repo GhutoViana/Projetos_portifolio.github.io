@@ -52,7 +52,9 @@ A base contém informações relevantes sobre o comportamento e perfil dos clien
 import pandas as pd
 display(tabela)
 
-🧹 2. Limpeza dos Dados
+
+
+###🧹 2. Limpeza dos Dados
 
 - Remoção de colunas irrelevantes (CustomerID);
 - Exclusão de dados faltantes;
