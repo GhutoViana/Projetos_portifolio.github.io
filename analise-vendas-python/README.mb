@@ -8,60 +8,46 @@ O objetivo foi identificar os principais fatores que levam os clientes a cancela
 
 ---
 
-🔍 Objetivo:
+# 📊 Python Insights - Previsão de Cancelamento de Clientes (Churn Prediction)
 
-Entender os principais motivos de churn
+Este projeto tem como objetivo realizar uma **análise exploratória e diagnóstica** em Python, focada na **previsão de cancelamento de clientes** (*Churn Prediction*). Através de uma abordagem baseada em dados, buscamos compreender os principais fatores que levam clientes a encerrar seu vínculo com um serviço e propor **ações estratégicas para aumentar a retenção**.
 
-Propor ações estratégicas para retenção
+---
 
-Reduzir a taxa de cancelamento
+## 🧠 Objetivo do Projeto
 
+Identificar padrões de comportamento entre os clientes que cancelaram o serviço e:
 
-🎯 Resultados:
-✅ Redução de 56.7% para 18.4% na taxa de churn
-✅ Aumento de 89% na retenção de clientes
+- Descobrir os **principais fatores** que contribuem para o churn;
+- Fornecer **insights acionáveis** para a equipe de marketing, atendimento e cobrança;
+- Simular o **impacto positivo de ações de retenção**;
+- Reduzir a taxa de cancelamento e melhorar a experiência do cliente.
 
+---
 
-🔧 Tecnologias Utilizadas
-Python (Pandas, Plotly)
+## 📁 Base de Dados
 
-Jupyter Notebook
+A base contém informações relevantes sobre o comportamento e perfil dos clientes, como:
 
-Análise Exploratória de Dados (EDA)
+- Tempo de contrato (mensal, anual);
+- Quantidade de ligações ao call center;
+- Dias em atraso no pagamento;
+- Idade dos clientes, entre outros.
 
-Visualização de Dados
+---
 
+## ⚙️ Tecnologias Utilizadas
 
-📊 Principais Insights
-🔎 Fatores que Influenciam o Churn
-Clientes com mais de 50 anos
+- **Python 3.11+**
+- **Pandas** para manipulação e limpeza de dados
+- **Plotly Express** para visualização interativa
+- **Jupyter Notebook** para execução passo a passo
 
-100% cancelaram
+---
 
-Ação: Campanhas de marketing direcionadas
+## 🔍 Etapas da Análise
 
-Contrato mensal
-
-Taxa de churn de 100%
-
-Ação: Incentivar planos anuais
-
-Mais de 4 ligações para o call center
-
-Alto índice de cancelamento
-
-Ação: Melhorar atendimento e criar alertas
-
-Atrasos acima de 20 dias
-
-Todos os clientes cancelaram
-
-Ação: Alertar cobrança com 10 dias de atraso
-
-
-📈 Impacto das Ações
-Ação Implementada	Taxa de Churn
-Sem ações	56.7%
-Reduzir ligações (>4)	36.3%
-Limitar atrasos (≤20 dias)	26.9%
-Migrar para contratos anuais	18.4%
+### ✅ 1. Importação e Visualização Inicial dos Dados
+```python
+import pandas as pd
+display(tabela)
