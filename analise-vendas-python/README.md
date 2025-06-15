@@ -62,7 +62,7 @@ tabela = tabela.dropna()
 
 ```
 
-### 📈 3. Análise Exploratória (EDA)
+### ✅ 3. Análise Exploratória (EDA)
 
 Avaliação da taxa de cancelamento:
 
@@ -84,26 +84,27 @@ tabela["cancelou"].value_counts(normalize=True)
 ```
 
 
-### 🧪 4. Análise Diagnóstica
-Insights obtidos:
+### ✅ 4. Análise Diagnóstica
 
-- Clientes com idade acima de 50 anos: todos cancelaram.
-💡 Recomenda-se campanhas focadas nesse público.
+# Insights obtidos:
 
-- Mais de 4 ligações ao call center: cancelamento quase certo.
-💡 Melhorar atendimento e criar alertas para alta frequência de chamadas.
+  - Clientes com idade acima de 50 anos: todos cancelaram.
+  💡 Recomenda-se campanhas focadas nesse público.
 
-- Contrato mensal: taxa de cancelamento elevada.
-💡 Promover planos anuais com vantagens.
+  - Mais de 4 ligações ao call center: cancelamento quase certo.
+  💡 Melhorar atendimento e criar alertas para alta frequência de chamadas.
 
-- Mais de 20 dias de atraso: todos cancelaram.
-💡 Disparar alertas de cobrança a partir de 10 dias de atraso.
+  - Contrato mensal: taxa de cancelamento elevada.
+  💡 Promover planos anuais com vantagens.
+
+  - Mais de 20 dias de atraso: todos cancelaram.
+  💡 Disparar alertas de cobrança a partir de 10 dias de atraso.
 
 
 ## Simulação de Impacto (Pós-Ação)
 ### 🔧 Aplicação de Filtros:
 
-1. Redução no número de ligações ao call center:
+# 1. Redução no número de ligações ao call center:
 
 ```python
 condicao = tabela["ligacoes_callcenter"] <= 4
@@ -111,9 +112,9 @@ tabela = tabela[condicao]
 display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
-Churn caiu de 56,7% → 36,3%
+# Churn caiu de 56,7% → 36,3%
 
-2. Limitação dos dias de atraso:
+# 2. Limitação dos dias de atraso:
 
 ```python
 condicao = tabela["dias_atraso"] <= 20
@@ -122,10 +123,10 @@ display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
 
-Churn caiu de 36,3% → 26,9%
+# Churn caiu de 36,3% → 26,9%
 
 
-3. Substituição de contratos mensais por anuais:
+# 3. Substituição de contratos mensais por anuais:
 
 ```python
 
@@ -135,7 +136,7 @@ display(tabela["cancelou"].value_counts(normalize=True))
 
 ```
 
-Churn caiu de 26,9% → 18,4%
+# Churn caiu de 26,9% → 18,4%
 
 ### 📊 Resultado Final
 
