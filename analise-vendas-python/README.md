@@ -47,15 +47,28 @@ A base contém informações relevantes sobre o comportamento e perfil dos clien
 
 ## 🔍 Etapas da Análise
 
+
 ### ✅ 1. Importação e Visualização Inicial dos Dados
+
 ```python
 import pandas as pd
+
 display(tabela)
 
 ```
+
 
 ### ✅ 2. Limpeza dos Dados
 
 - Remoção de colunas irrelevantes (CustomerID);
 - Exclusão de dados faltantes;
 - Ajustes de formato e estrutura.
+
+```python
+
+tabela = tabela.drop(columns="CustomerID")
+
+tabela = tabela.dropna()
+
+```
+
